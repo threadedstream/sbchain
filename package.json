@@ -1,0 +1,16 @@
+{
+  "name": "sbchain",
+  "version": "1.0.0",
+  "main": "src/blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/index.js"
+  },
+  "author": "threadedstream",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.7"
+  }
+}
